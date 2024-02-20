@@ -29,7 +29,7 @@ def preprocess_data(data):
 
 # navigation bar
 st.sidebar.image("images/nlp.jpg",width=500)
-st.sidebar.title("Feedback Analyzer \n \n Developed by : Mayur Mamtani & Gaurav Shrivastava")
+st.sidebar.title("Feedback Analyzer \n \n Developed by :  Gaurav Shrivastav & Mayur Mamtani ")
 
 
 #file uploader 
@@ -110,4 +110,3 @@ if predict_btn:
 
 if clear_btn:
     result_image=None
-    
