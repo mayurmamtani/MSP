@@ -29,7 +29,7 @@ def preprocess_data(data):
 
 # navigation bar
 st.sidebar.image("images/nlp.jpg",width=500)
-st.sidebar.title("Feedback Analyzer \n \n Developed by :  Gaurav Shrivastav & Mayur Mamtani ")
+st.sidebar.title("Feedback Analyzer \n \n Developed by :  Gaurav Shrivastava & Mayur Mamtani ")
 
 
 #file uploader 
